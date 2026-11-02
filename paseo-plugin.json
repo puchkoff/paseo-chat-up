@@ -1,0 +1,8 @@
+{
+  "id": "paseo-chat-up",
+  "name": "Up arrow repeats last prompt",
+  "media": [],
+  "requirements": {
+    "paseo": ">=0.13.0"
+  }
+}
