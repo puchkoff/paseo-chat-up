@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/icon.png" width="96" alt="Up arrow logo"></p>
+
 # Up arrow repeats last prompt — a Paseo plugin
 
 ![Up arrow repeats last prompt: Paseo plugin screen (illustration)](docs/hero.svg)
@@ -5,6 +7,8 @@
 Press Up in an empty agent composer to get your latest prompt back, like shell history.
 
 Edit the prompt and send it, or press Ctrl+Z to clear it. The prompt is read from the agent's chat on screen, so it works only in the web and desktop apps, and only while that message is still rendered in the chat list. Only the text comes back; images and attachments of the old prompt are not copied.
+
+![The last prompt back in the composer after pressing Up](assets/screenshot-chat-up.png)
 
 ## Install
 

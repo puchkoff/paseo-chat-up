@@ -1,7 +1,11 @@
 {
   "id": "paseo-chat-up",
   "name": "Up arrow repeats last prompt",
-  "media": [],
+  "description": "Press Up in an empty composer to bring back your last prompt.",
+  "icon": "assets/icon.png",
+  "media": [
+    "assets/screenshot-chat-up.png"
+  ],
   "requirements": {
     "paseo": ">=0.13.0"
   }
